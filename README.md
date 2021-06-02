@@ -1,2 +1,5 @@
 # Top10CovidCases
-mantenimiento en MVC 2017 leer Api 
+mantenimiento en MVC 2017 
+Abrir ejecutable en Visual Studio 2017
+
+
